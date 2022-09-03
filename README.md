@@ -33,6 +33,7 @@
   - 自定义快捷键
     - 在voiceSet文件中写入要使用的快捷键，常用的如：Alt、Shift、Caps lock、Ctrl等
     - 考虑到日常按键容易被触发，计算在触发次数里面。在试用阶段还好，但是在商用根据次数计费，可以考虑放在不常被按到的地方使用。避免按键误触和次数消耗。根据体验自行设置
+    - 比较推荐使用insert键，算是最好的按键了。注意要在word中关闭insert的改写功能，方法如[百度知道](https://zhidao.baidu.com/question/207264910.html?qbl=relate_question_2&word=insert%C6%F0%D7%F7%D3%C3%B5%C4%B5%D8%B7%BD)
   - 句末句号是否保留
     - 语音识别默认会带有句号。如果设置False表示末尾不带句号，方便手动添加
   - 是否恢复操作前键盘状态四个功能

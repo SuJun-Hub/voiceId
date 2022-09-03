@@ -1,4 +1,5 @@
-# voiceId
+[Gittee](https://gitee.com/Su--Jun/voiceId)   |   [Github](https://github.com/SuJun-Hub/voiceId)
+# ![ic_voice](https://user-images.githubusercontent.com/57529790/188253989-e836278d-29f9-4d55-ba3f-e88ed36be2c2.png)voiceId
 - 借鉴CapsWriter修改的windows端语音输入
   - 最近一直在寻找win端的方便语音输入的工具，诸多尝试后，发现了[CapsWriter](https://github.com/HaujetZhao/CapsWriter)
 - 进行了一些小修改，足够自己用了，同时想分享给大家
